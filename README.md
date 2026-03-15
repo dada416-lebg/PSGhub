@@ -208,11 +208,7 @@ Si après 30 secondes certains menus sont toujours vides, cela peut indiquer :
 - Un problème de connexion Internet
 - Une indisponibilité temporaire de l'API
 
----
 
-
-
----
 
 ## 🐛 Dépannage
 
