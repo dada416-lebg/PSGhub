@@ -210,9 +210,7 @@ Si après 30 secondes certains menus sont toujours vides, cela peut indiquer :
 
 ---
 
-## 📸 Captures d'écran
 
-> *Les captures d'écran seront ajoutées prochainement*
 
 ---
 
